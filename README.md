@@ -90,7 +90,7 @@ curl -X POST "http://localhost:8000/query" ^
 ```bash
 curl -X POST "http://localhost:8000/query-text" ^
      -H "Content-Type: application/json" ^
-     -d "{\"query\": \"Who won the Premier League in 2016?\"}"
+     -d "{\"query\": \"How many goals did Arsenal score in 2016?\"}"
 ```
 
 ## 📂 Project Structure
