@@ -2,4 +2,11 @@ streamlit
 langchain
 langchain-community
 langchain-huggingface
+langgraph
 python-dotenv
+fastapi
+uvicorn
+pydantic
+pandas
+sqlalchemy
+pyngrok
